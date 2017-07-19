@@ -14,19 +14,18 @@ Rickey Henderson played 25 Major League seasons, is a two-time World Series winn
 
 ---
 
-## Demo
-![Demo](runrickeydemo-2.gif)
-
 ## Deployment
 
 [Chrome Web Store](https://chrome.google.com/webstore/detail/jbbcdplnijiognjbapekcfcbbclnoblo)
-
 
 ## Rickey Stories ⚾
 
 [Former Big Leaguer Harry Reynolds telling Rickey stories](https://youtu.be/9-1LGUOvpDM)
 
 [Top Ten Times Rickey Henderson referred to himself in the third person](https://www.fanhospitality.com/blog/2017/04/10/top-10-times-rickey-henderson-referred-to-himself-in-the-third-person/)
+
+## Demo
+![Demo](runrickeydemo-2.gif)
 
 ## G.O.A.T 🐐
 
