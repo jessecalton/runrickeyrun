@@ -7,7 +7,9 @@ Rickey Henderson, a Hall of Fame outfielder with the Oakland Athletics, was a bi
 
 ### *Run Rickey Run* Changes every instance of first-person pronouns on a web page to "Rickey Henderson," and updates the web page's styling to cool Oakland A's colors!
 
+
 Example: "I don't like it when I can't find my limo" gets changed to "Rickey Henderson don't like it when Rickey Henderson can't find Rickey Henderson's limo."
+
 ---
 
 ## Demo
