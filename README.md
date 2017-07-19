@@ -7,7 +7,7 @@ Rickey Henderson, a Hall of Fame outfielder with the Oakland Athletics, was a bi
 
 Demo:
 
-### Rickey Stories
+## Rickey Stories
 
 [Former Big Leaguer Harry Reynolds telling Rickey stories](https://youtu.be/9-1LGUOvpDM)
 
