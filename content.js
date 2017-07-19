@@ -8,7 +8,45 @@ chrome.runtime.onMessage.addListener(
     document.body.innerHTML = document.body.innerHTML.replace(/\s\my\s/g, " Rickey Henderson's ");
     document.body.innerHTML = document.body.innerHTML.replace(/\My\s/g, "Rickey Henderson's ");
     document.body.innerHTML = document.body.innerHTML.replace(/\I\’\m/g, "Rickey Henderson's");
-    document.body.style.color = "goldenrod";
+    document.body.innerHTML = document.body.innerHTML.replace(/\I\’\ll/g, "Rickey Henderson will");
+    document.body.style.setProperty = ("color", "goldenrod", "important");
+
+    colorLinks("#00FF00");
+// Changes the color of the links
+    function colorLinks(hex)
+      {
+        var links = document.getElementsByTagName("a");
+        for(var i=0;i<links.length;i++)
+        {
+            if(links[i].href)
+            {
+                links[i].style.color = hex;  
+            }
+        }  
+      };
+// end function
+
+// color text of Divs
+    colorTextDivs();
+
+    function colorTextDivs(){
+      var divs = document.getElementsByTagName("div");
+      for(var i=0; i < divs.length; i++)
+      {
+        divs[i].style.setProperty("color", "goldenrod", "important")
+      }
+    }
+
+    colorTextSpans();
+
+    function colorTextSpans(){
+      var spans = document.getElementsByTagName("span");
+      for(var i=0; i < spans.length; i++)
+      {
+        spans[i].style.setProperty("color", "goldenrod", "important")
+      }
+    }
+
     }
   }
 ); 
