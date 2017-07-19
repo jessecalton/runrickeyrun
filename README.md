@@ -29,6 +29,6 @@ Rickey Henderson played 25 Major League seasons, is a two-time World Series winn
 
 ## G.O.A.T 🐐
 
-![GOAT](Big-Rickey.png)
+![GOAT](http://baseballhall.org/sites/default/files/styles/fullscreen_image_popup/public/islandora_images/Henderson%20Rickey_34%202009%209_Act_HoF%20Use%20Only.jpg?itok=7muhVeIX)
 
 Credit: (http://baseballhall.org/hof/henderson-rickey)
