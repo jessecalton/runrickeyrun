@@ -23,6 +23,6 @@ Rickey Henderson, a Hall of Fame outfielder with the Oakland Athletics, was a bi
 
 ## G.O.A.T
 
-(Big-Rickey.png)
+![GOAT](Big-Rickey.png)
 
 Credit: (http://baseballhall.org/hof/henderson-rickey)
