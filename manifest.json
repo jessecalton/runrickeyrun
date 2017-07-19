@@ -1,7 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Run Rickey Run",
-  "version": "0.1",
+  "short_name": "Run Rickey",
+  "version": "0.2",
   "permissions": [
     "activeTab"
   ],
@@ -17,6 +18,6 @@
     }
   ],
   "browser_action": {
-    "default_icon": "as.png"
+    "default_icon": "baseball.png"
   }
 }
