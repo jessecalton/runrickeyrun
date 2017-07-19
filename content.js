@@ -26,7 +26,7 @@ chrome.runtime.onMessage.addListener(
       };
 // end function
 
-// color text of Divs
+// color text of Div elements
     colorTextDivs();
 
     function colorTextDivs(){
@@ -37,6 +37,7 @@ chrome.runtime.onMessage.addListener(
       }
     }
 
+// color text of Span elements
     colorTextSpans();
 
     function colorTextSpans(){
@@ -44,6 +45,16 @@ chrome.runtime.onMessage.addListener(
       for(var i=0; i < spans.length; i++)
       {
         spans[i].style.setProperty("color", "goldenrod", "important")
+      }
+    }
+
+    colorParas();
+
+    function colorParas(){
+      var paras = document.getElementsByTagName("p");
+      for(var i=0; i < paras.length; i++)
+      {
+        paras[i].style.setProperty("color", "goldenrod", "important")
       }
     }
 
