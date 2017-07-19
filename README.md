@@ -4,7 +4,7 @@ Rickey Henderson, a Hall of Fame outfielder with the Oakland Athletics, was a bi
 
 Rickey Henderson played 25 Major League seasons, is a two-time World Series winner, and has the all-time record for stolen bases at 1,406. As it stands, this record is widely regarded as one that will never be broken.
 
-*Run Rickey Run* is a fun Chrome Extension that makes a web page look like it was written by The Greatest of All Time
+**Run Rickey Run** is a fun Chrome Extension that makes a web page look like it was written by The Greatest of All Time
 
 ---
 ### *Run Rickey Run* changes every instance of first-person pronouns on a web page to "Rickey Henderson," and updates the web page's styling to cool Oakland A's colors!
