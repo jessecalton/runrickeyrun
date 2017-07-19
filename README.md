@@ -16,7 +16,13 @@ Rickey Henderson played 25 Major League seasons, is a two-time World Series winn
 
 ## Deployment
 
-Currently pending approval for the Chrome Web Store 🙄
+For reasons unknown, the Chrome Web Store is not publishing my extension (possibly due to some copyright surrounding Rickey's name).
+
+At any rate, you can still use the extension locally! Follow these steps:
+* Clone the repository to your machine to a place where you know you can find it (like the Desktop)
+* Open a Chrome browser and go to (chrome://extensions/)
+* Click the check box marked **Developer Mode** in the top right corner
+* Then click the bar "Load unpacked extension" and select the Run Rickey Run directory. You should see the extension's icon appear with your other icons!
 
 [Chrome Web Store Link](https://chrome.google.com/webstore/detail/foehjfdpncibeiekiepijadllbcfkedi)
 
