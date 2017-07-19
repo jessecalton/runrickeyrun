@@ -15,13 +15,13 @@ Rickey Henderson, a Hall of Fame outfielder with the Oakland Athletics, was a bi
 ## Demo
 ![Demo](runrickeydemo-2.gif)
 
-## Rickey Stories
+## Rickey Stories ⚾
 
 [Former Big Leaguer Harry Reynolds telling Rickey stories](https://youtu.be/9-1LGUOvpDM)
 
 [Top Ten Times Rickey Henderson referred to himself in the third person](https://www.fanhospitality.com/blog/2017/04/10/top-10-times-rickey-henderson-referred-to-himself-in-the-third-person/)
 
-## G.O.A.T
+## G.O.A.T 🐐
 
 ![GOAT](Big-Rickey.png)
 
