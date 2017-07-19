@@ -48,7 +48,7 @@ chrome.runtime.onMessage.addListener(
       }
     }
 
-    colorParas();
+
 
     function colorParas(){
       var paras = document.getElementsByTagName("p");
@@ -57,7 +57,7 @@ chrome.runtime.onMessage.addListener(
         paras[i].style.setProperty("color", "goldenrod", "important")
       }
     }
-
+    colorParas();
     }
   }
 ); 
