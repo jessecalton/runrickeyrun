@@ -5,7 +5,8 @@ Rickey Henderson played 25 Major League seasons, is a two-time World Series winn
 
 Rickey Henderson, a Hall of Fame outfielder with the Oakland Athletics, was a big personality who was known for talking in the third-person. Such a privilege is earned, not given.
 
-Demo:
+## Demo
+![Demo](runrickeydemo-2.gif)
 
 ## Rickey Stories
 
