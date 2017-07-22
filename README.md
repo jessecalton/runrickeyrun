@@ -24,7 +24,7 @@ At any rate, you can still use the extension locally! Follow these steps:
 * Click the check box marked **Developer Mode** in the top right corner
 * Then click the bar "Load unpacked extension" and select the Run Rickey Run directory. You should see the extension's icon appear with your other icons!
 
-[Chrome Web Store Link](https://chrome.google.com/webstore/detail/foehjfdpncibeiekiepijadllbcfkedi)
+[Chrome Web Store Link](https://chrome.google.com/webstore/detail/ialhbedbkfalgamaddkalflbnlgeabmc)
 
 ## Rickey Stories ⚾
 
