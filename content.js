@@ -37,7 +37,7 @@ chrome.runtime.onMessage.addListener(
       }
     }
 
-// color text of Span elements
+// color text of Span elements 
     colorTextSpans();
 
     function colorTextSpans(){
